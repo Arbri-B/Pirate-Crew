@@ -1,0 +1,122 @@
+
+.total{
+  background-color: rgb(169, 107, 48);
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.header {
+  width: 100%;
+  height: 200px;
+  background-color: darkorange;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  
+}
+.head-link{
+  margin-right: 100px ;
+  margin-left: 225px;
+  background-color: white;
+  padding: 5px;
+  color: black;
+  text-decoration: none;
+}
+
+.main-text{
+  margin-right: 20%;
+}
+
+
+.form {
+  background-color: rgb(169, 107, 48);
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+.form-left{
+  width: 40%;
+}
+
+.form-right{
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly
+}
+
+.form-check-label{
+  margin-top: 20px;
+}
+
+.red{
+  color: red;
+}
+
+.resultDiv{
+  background-color: rgb(169, 107, 48);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.pirate-box{
+  background-color: white;
+  width: max-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  margin: 10px;
+  background-color: white;
+}
+
+.pb-content{
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 100px;
+}
+
+.button-pirate{
+  margin: 5px
+}
+
+.blue{
+  background-color: blue;
+  color: white;
+}
+
+.red{
+  background-color: red;
+  color: white
+}
+
+.card-body{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-right{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: xx-large;
+  margin-top: 100px;
+  margin-right: 15%;
+}
+
+.golden{
+  color: rgb(204, 174, 7);
+  font-size: xx-large;
+  margin-right: 20px;
+}
